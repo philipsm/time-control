@@ -5,4 +5,4 @@
 后端：springboot + jpa + shiro 
 
 
-下一步计划添加 redis   kafka 到项目中
+下一步计划添加 redis   mq 到项目中
